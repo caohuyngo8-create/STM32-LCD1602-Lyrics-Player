@@ -3,6 +3,9 @@
 Welcome to my first GitHub project! This is an embedded system project based on the STM32F103C8T6 microcontroller, which drives a 3.3V LCD1602A display (via an I2C adapter) to show dual-line KTV-style scrolling lyrics. 
 
 Currently playing: **Alex Warren - Carry You Home** 🎤
+<img width="1604" height="894" alt="c0b0d92177c128cb629fd05d32555634" src="https://github.com/user-attachments/assets/d8ae588a-4d2b-4849-a532-98c00a17dd64" />
+
+
 
 ## ✨ Features
 - **I2C Communication:** Custom, highly optimized software I2C driver for PCF8574, saving GPIO pins.
